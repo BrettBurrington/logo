@@ -2,7 +2,6 @@ import inquirer from 'inquirer';
 import fs from 'fs';
 import { Circle, Triangle, Square } from './lib/shapes.js';
 
-// Function to prompt the user for input
 async function promptUser() {
   const userInput = await inquirer.prompt([
     {

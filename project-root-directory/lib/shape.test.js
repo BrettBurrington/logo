@@ -1,4 +1,4 @@
-const { Circle, Triangle, Square } = require('./lib/shapes');
+import { Circle, Triangle, Square } from './lib/shapes';
 
 describe('Circle Class', () => {
   test('render() should return the SVG string for the circle with specified color', () => {

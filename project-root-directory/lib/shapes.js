@@ -7,7 +7,7 @@ class Shape {
       this.color = color;
     }
   
-    render(text, textColor) {
+    render(text,) {
       throw new Error('The render method must be implemented in child classes.');
     }
   }
