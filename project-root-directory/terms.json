@@ -1,0 +1,20 @@
+{
+    "shapes": [
+      {
+        "name": "Circle",
+        "description": "A circle is a simple closed shape in Euclidean geometry. It is the set of all points in a plane that are at a given distance from a given point, the center.",
+        "properties": ["radius", "diameter", "circumference", "area"]
+      },
+      {
+        "name": "Triangle",
+        "description": "A triangle is a polygon with three edges and three vertices. It is one of the basic shapes in geometry.",
+        "properties": ["base", "height", "sides", "area"]
+      },
+      {
+        "name": "Square",
+        "description": "A square is a regular quadrilateral, which means that it has four equal sides and four equal angles.",
+        "properties": ["side length", "diagonal", "perimeter", "area"]
+      }
+    ]
+  }
+  
